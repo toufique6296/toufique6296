@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @toufique6296
+- 👋 Hi, I’m @toufique
 - 👀 I’m interested in Data Analysis
 - 🌱 I’m currently learning Dsa
 - 📫 How to reach me linkedln 
