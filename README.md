@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toufique
-- 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Dsa
+- 👀 I’m interested in Electronics System
+- 🌱 I’m currently learning.
 - 📫 How to reach me linkedln 
 
 <!---
